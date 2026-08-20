@@ -1,0 +1,6 @@
+{
+  "name": "Mading Digital Sekolah",
+  "description": "Platform mading digital sekolah interaktif dengan moderasi karya siswa, notifikasi persetujuan, diskusi komentar, pencarian kategori/penulis, dan manajemen profil.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
